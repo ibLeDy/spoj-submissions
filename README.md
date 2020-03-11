@@ -1,4 +1,4 @@
-# [Sphere Online Judge Submissions](https://www.spoj.com/status/bledy/)
+# [My SPOJ Submissions](https://www.spoj.com/status/bledy/)
 
 - [Enormous Input Test](INTEST/main.py) [![logo]](https://www.spoj.com/problems/INTEST/)
 
