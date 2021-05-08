@@ -13,8 +13,11 @@ repos:
       - id: detect-private-key
       - id: mixed-line-ending
       - id: check-json
+  - repo: https://github.com/pycqa/flake8
+    rev: 3.9.1
+    hooks:
       - id: flake8
-        args: ["--count", "--ignore=E501", --exclude=.venv", "--statistics"]
+        args: ["--ignore=E501"]
   - repo: https://github.com/pre-commit/mirrors-mypy
     rev: v0.761
     hooks:
